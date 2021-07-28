@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-chat-web/static/css/main.a617e044.chunk.css",
+    "main.js": "/my-chat-web/static/js/main.3732751e.chunk.js",
+    "main.js.map": "/my-chat-web/static/js/main.3732751e.chunk.js.map",
+    "runtime-main.js": "/my-chat-web/static/js/runtime-main.1b112ac5.js",
+    "runtime-main.js.map": "/my-chat-web/static/js/runtime-main.1b112ac5.js.map",
+    "static/js/2.c958387c.chunk.js": "/my-chat-web/static/js/2.c958387c.chunk.js",
+    "static/js/2.c958387c.chunk.js.map": "/my-chat-web/static/js/2.c958387c.chunk.js.map",
+    "static/js/3.4154d0ab.chunk.js": "/my-chat-web/static/js/3.4154d0ab.chunk.js",
+    "static/js/3.4154d0ab.chunk.js.map": "/my-chat-web/static/js/3.4154d0ab.chunk.js.map",
+    "index.html": "/my-chat-web/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/my-chat-web/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c958387c.chunk.js.LICENSE.txt": "/my-chat-web/static/js/2.c958387c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-chat-web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b112ac5.js",
+    "static/js/2.c958387c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3732751e.chunk.js"
+  ]
+}
